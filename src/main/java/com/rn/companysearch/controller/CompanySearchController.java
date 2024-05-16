@@ -1,4 +1,4 @@
-package com.rn.companysearch;
+package com.rn.companysearch.controller;
 
 
 import com.rn.companysearch.model.CompanySearchRequest;
